@@ -2,7 +2,7 @@
 
 Minimal open-source implementation of:
 
-> **MobiWave: Graph Wavelets and Drift-Guided Selective
+> **MobiWave: Dispatch-Oriented Graph Wavelets and Drift-Guided Selective
 > Optimization for Autonomous Fleet Rebalancing**
 
 This directory contains only the MobiWave execution path:
